@@ -1,6 +1,9 @@
 # dependencies
 node_modules
 
+# vercel
+.vercel
+
 # build output
 dist
 dist-ssr
@@ -24,3 +27,5 @@ pnpm-debug.log*
 .DS_Store
 Thumbs.db
 *.local
+
+.vercel
